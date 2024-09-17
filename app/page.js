@@ -5,8 +5,7 @@ export default function Home() {
       <h1>Welcome to this NextJS Course!</h1>
       <h1>Welcome to this NextJS Course!</h1>
       <h1>Welcome to this NextJS Course!</h1>
-      <h1>Welcome to this NextJS Course!</h1>
-      <h1>Welcome to this NextJS Course!</h1>
+      <h1>ABCD</h1>
       <p>🔥 Let&apos;s get started! 🔥</p>
     </main>
   );
